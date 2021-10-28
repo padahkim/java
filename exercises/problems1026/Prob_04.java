@@ -1,4 +1,4 @@
-package java1026.prob03;
+package java1026.prob;
 
 /*
  * 배열에 저장된 요소의 갯수만큼 문자를 출력하는 프로그램을 구현하시오.

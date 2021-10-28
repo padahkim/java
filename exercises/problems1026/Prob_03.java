@@ -1,4 +1,4 @@
-package java1026.prob03;
+package java1026.prob;
 /*
  * num배열의 합계와 평균을 구하는 프로그램을 구현하시오.
  *  출력결과

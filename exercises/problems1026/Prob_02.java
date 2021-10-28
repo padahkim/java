@@ -1,4 +1,4 @@
-package java1026.answ03;
+package java1026.prob;
 /*
  * 4행 4열 data배열에 가로 세로 합계를 구하는 프로그램을 구현하시오.
  * [출력결과]

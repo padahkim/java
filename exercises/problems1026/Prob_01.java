@@ -1,4 +1,4 @@
-package java1026.prob03;
+package java1026.prob;
 
 /*
  * num배열에서 최대값을 출력하는 프로그램을 구현하시오.
