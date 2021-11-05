@@ -17,7 +17,7 @@ public class Prob004_String {
 	static String process(char[] arr) {
 		// arr매개변수에서 '_'은 공백으로 , '/'은 ':'으로 변경한후
 		// 리턴하는 프로그램을 구현하시오.
-		/*
+		
 		String sentence = "";
 		
 		for(char word: arr) {
@@ -26,7 +26,9 @@ public class Prob004_String {
 		String newSentence = sentence.replace('/',':');
 		
 		return newSentence.replace('_', ' ');
-		*/
+		
+	/*	매개변수와 리턴타입이 안맞을 경우 Stirng.valueOf(arr)하면 간단히 String타입으로 변환가능
+	 * 
 		String sentence = "";
 		
 		for(char word: arr) {	
@@ -42,10 +44,8 @@ public class Prob004_String {
 				arr[i] =' ';
 		}
 		
-		
-		
 		return String.valueOf(arr);
-		
+		*/
 	
 	}// end process()
 
